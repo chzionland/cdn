@@ -16,4 +16,10 @@ Examples:
 
 - `/build/asset/testbot.jpg => https://cdn.qizhong.land/asset/testbot.jpg`
 
-Your pull-zone should be made to the build directory and should already have pre-compiled, compressed and minified assets as needed.
+Your pull-zone should be made to the `build` directory
+
+You should already have pre-compiled, compressed and minified assets as needed as README.md in each folder, such as <https://github.com/chzionland/cdn/build/img/avtar/README.md>.
+
+## Test CDN If Is Working
+
+<https://cdn.qizhong.land/index.html>
