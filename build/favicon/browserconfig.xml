@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<browserconfig><msapplication><tile><square70x70logo src="/ms-icon-70x70.png"/><square150x150logo src="/ms-icon-150x150.png"/><square310x310logo src="/ms-icon-310x310.png"/><TileColor>#ffffff</TileColor></tile></msapplication></browserconfig>
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.qizhong.land/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.qizhong.land/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.qizhong.land/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://cdn.qizhong.land/favicon/manifest.json">
