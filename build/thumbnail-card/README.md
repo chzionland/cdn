@@ -18,7 +18,7 @@ These images can be used as thumbnail in card shape, such as project thumbnail o
 - if havn't clone this repo to local: `git clone git@github.com:chzionland/cdn.git`, or skip to next step
 - upload an image to <https://ezgif.com>
 - crop as `3: 2`
-- resize to `width 900px`
+- resize to `width 1080px`
 - ransfer to `.webp`
-- if (size > 50kb), optimize size to `50kb`
+- if (size > 100kb), optimize size to `100kb`
 - download image to the folder `/build/thumbnail-card/{sub_folder}` of this repo, then push.
