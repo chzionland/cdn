@@ -20,5 +20,5 @@ These images can be used as thumbnail in card shape, such as project thumbnail o
 - crop as `3: 2`
 - resize to `width 1080px`
 - ransfer to `.webp`
-- if (size > 100kb), optimize size to `100kb`
+- if (size > 80kb), optimize size to `80kb`
 - download image to the folder `/build/thumbnail-card/{sub_folder}` of this repo, then push.
