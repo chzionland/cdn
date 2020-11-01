@@ -25,13 +25,21 @@ These images can be used as thumbnail in card shape, such as project thumbnail o
 - new_start
   - source: Land
 
+### `./stories`
+
+- land_doc
+  - source: <>
+
+- land_view
+  - source: Land
+
 ## How to upload image to this folder
 
 - optimize image with PS if in need
 - if havn't clone this repo to local: `git clone git@github.com:chzionland/cdn.git`, or skip to next step
 - upload an image to <https://ezgif.com>
 - crop as `square`
-- resize `width 360px`
+- resize `width 540px` (larger) or `width 360px` (smaller)
 - ransfer to `.webp`
 - if (size > 50kb), optimize size to `50kb`
 - download image to the folder `/build/thumbnail-square/{sub_folder}` of this repo, then push.
