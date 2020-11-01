@@ -28,7 +28,7 @@ These images can be used as thumbnail in card shape, such as project thumbnail o
 ### `./stories`
 
 - land_doc
-  - source: <>
+  - source: <https://upload.wikimedia.org/wikipedia/commons/3/34/Film_archive_storage_%286498619601%29.jpg>
 
 - land_view
   - source: Land
